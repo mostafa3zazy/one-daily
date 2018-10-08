@@ -10,7 +10,7 @@ a:focus {
 body{
     margin:0;
     padding:0;
-    background-image:url(images/tm-catalyst-bg.png);
+    background-image:url(images/tm-catalyst-bg.jpg);
     /*background-repeat:repeat-y;*/
     background-size:cover;
     background-attachment: fixed;
@@ -401,7 +401,7 @@ h1 { font-size: 54px; }
 @media screen and (max-width:870px){
     
     body{
-        background-image:url(images/tm-catalyst-bg1.png);
+        background-image:url(images/tm-catalyst-bg1.jpg);
     }
 }
 @media screen and (max-width:767px){
@@ -411,17 +411,17 @@ h1 { font-size: 54px; }
 }
 @media screen and (max-width:710px){
 body{
-        background-image:url(images/tm-catalyst-bg2.png);
+        background-image:url(images/tm-catalyst-bg2.jpg);
     }
 }
 @media screen and (max-width:600px){
 body{
-        background-image:url(images/tm-catalyst-bg3.png);
+        background-image:url(images/tm-catalyst-bg3.jpg);
     }
 }
 @media screen and (max-width:500px) {
     body{
-        background-image:url(images/tm-catalyst-bg4.png);
+        background-image:url(images/tm-catalyst-bg4.jpg);
     }
     .btn { margin-top: 10px; }
 
@@ -446,6 +446,6 @@ body{
 
 @media screen and (min-width: 320px) and (max-width: 420px) {
     body{
-        background-image:url(images/tm-catalyst-bg5.png);
+        background-image:url(images/tm-catalyst-bg5.jpg);
     }
 }
