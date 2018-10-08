@@ -18,6 +18,7 @@ body{
     font-size: 18px;
     font-weight:300;
     direction: rtl;
+    min-width: 320px;
 }
 .tm-logo { margin-bottom: 25px; }
 p {
@@ -35,7 +36,7 @@ p {
     margin-bottom: 40px;
 }
 .hl{
-    max-height: 450px;
+    max-height: 430px;
 }
 .ff{
     float:right;
@@ -181,7 +182,7 @@ p {
     color: white;
 }
 #rot:hover{
-    max-height: 500px;
+    max-height: 470px;
     transition: 1.5s;
 }
 
@@ -446,7 +447,7 @@ body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 320px) and (max-width: 420px) {
     body{
         background-image:url(../images/tm-catalyst-bg5.png);
     }
