@@ -405,9 +405,6 @@ h1 { font-size: 54px; }
     }
 }
 @media screen and (max-width:767px){
-    
-    #home { padding-top: 62px; }
-    .main-title { margin-bottom: 30px; }
 }
 @media screen and (max-width:710px){
 body{
@@ -423,25 +420,13 @@ body{
     body{
         background-image:url(images/tm-catalyst-bg4.jpg);
     }
-    .btn { margin-top: 10px; }
-
-    .tm-float-section-body { 
-        padding: 10px;
-        margin-top: -90px;
-    }
 }
 
 @media screen and (max-width: 480px) {
-    .background.content-item-1 { padding: 40px 45px; }
 }
 
 @media screen and (max-width: 460px) {
-    .tm-float-section-header { height: 220px; }
-    .tm-float-section-body,
-    .tm-float-section-body .col-lg-12 {
-        padding-left: 0;
-        padding-right: 0;
-    }
+
 }
 
 @media screen and (min-width: 320px) and (max-width: 420px) {
