@@ -36,7 +36,7 @@ p {
     margin-bottom: 40px;
 }
 .hl{
-    max-height: 430px;
+    max-height: 450px;
 }
 .ff{
     float:right;
@@ -182,7 +182,7 @@ p {
     color: white;
 }
 #rot:hover{
-    max-height: 470px;
+    transform: rotateY(360deg);
     transition: 1.5s;
 }
 
@@ -227,9 +227,6 @@ h1 { font-size: 54px; }
 .tm-btn-primary:focus {
     background-color: #e74a7e;
     color: white;
-}
-.btn:hover{
-    padding: 15px 40px;
 }
 .contt:hover{
   background-color: #777;  
